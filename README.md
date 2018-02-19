@@ -1,1 +1,1 @@
-# React tutorial app
+# React tutorial app: tic-tac-tocg
